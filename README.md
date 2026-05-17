@@ -1,0 +1,22 @@
+# Silent Hill PC Port -- Nightly Builds
+
+Automated nightly build artifacts for the **Silent Hill PC Port**.
+
+Source code and full development history live in the main repo:
+
+**[SlickAmogus/silent-hill-decomp](https://github.com/SlickAmogus/silent-hill-decomp)**
+
+Based on the upstream decompilation by [Vatuu/silent-hill-decomp](https://github.com/Vatuu/silent-hill-decomp).
+
+---
+
+## How to use
+
+1. Download the launcher from the main repo releases.
+2. Open **SilentHillPC_Launcher.exe** and click **Check for Updates**.
+3. Place your `Silent Hill (USA).bin` + `.cue` disc image next to `SilentHillPC.exe`.
+4. Click **Play**.
+
+## Status
+
+Early port — main menu, first area, combat all functional. Work in progress.
