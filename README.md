@@ -14,9 +14,6 @@ Based on the upstream decompilation by [Vatuu/silent-hill-decomp](https://github
 
 1. Download the launcher from the main repo releases.
 2. Open **SilentHillPC_Launcher.exe** and click **Check for Updates**.
-3. Place your `Silent Hill (USA).bin` + `.cue` disc image next to `SilentHillPC.exe`.
+3. Place your `Silent Hill (USA).bin` in gamedata folder next to your executable if you haven't already.
 4. Click **Play**.
 
-## Status
-
-Early port — main menu, first area, combat all functional. Work in progress.
