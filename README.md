@@ -17,3 +17,6 @@ Based on the upstream decompilation by [Vatuu/silent-hill-decomp](https://github
 3. Place your `Silent Hill (USA).bin` in gamedata folder next to your executable if you haven't already.
 4. Click **Play**.
 
+
+Silent Hill is © Konami and this does not conttain any game assets. You must provide a legally obtained dump of Silent Hill for PSX to use.
+
