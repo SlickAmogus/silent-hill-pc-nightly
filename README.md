@@ -18,5 +18,5 @@ Based on the upstream decompilation by [Vatuu/silent-hill-decomp](https://github
 4. Click **Play**.
 
 
-Silent Hill is © Konami and this does not conttain any game assets. You must provide a legally obtained dump of Silent Hill for PSX to use.
+Silent Hill is © Konami and this does not contain any game assets. You must provide a legally obtained dump of Silent Hill for PSX to use.
 
